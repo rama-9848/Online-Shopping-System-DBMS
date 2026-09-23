@@ -50,3 +50,6 @@ The ER diagram is available in the `diagrams` folder.
 ## Academic Year
 
 2026–2027
+## GitHub Repository
+
+[Online Shopping System – DBMS Repository](https://github.com/rama-9848/Online-Shopping-System-DBMS)
